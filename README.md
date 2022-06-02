@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikjaksan
 - 👀 I’m interested in ...learning to program 
-- 🌱 I’m currently learning ...100 days of web development 
+- 🌱 I’m currently learning ...The Complete Javascript Course by Jonas Schmedtman 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
