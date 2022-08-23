@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nikjaksan
-- 👀 I’m interested in ...learning to program 
-- 🌱 I’m currently learning ...The Complete Javascript Course by Jonas Schmedtman 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Nick (@nikjaksan)
+- 👀 I’m interested in ...FullStack Web Development and Cloud Computing 
+- 🌱 I’m currently learning ... AWS Cloud Practitioner Certification
+- 💞️ I’m looking to collaborate on ... Any exciting website idea
+- 📫 How to reach me ... njs.learns@gmail.com
 
 <!---
 nikjaksan/nikjaksan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
